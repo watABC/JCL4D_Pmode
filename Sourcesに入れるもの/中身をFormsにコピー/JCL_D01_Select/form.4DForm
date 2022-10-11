@@ -1,9 +1,7 @@
 {
 	"destination": "detailScreen",
 	"windowSizingX": "fixed",
-	"windowSizingY": "fixed",
-	"width": 754,
-	"height": 398,
+	"windowSizingY": "variable",
 	"markerHeader": 15,
 	"markerBody": 200,
 	"markerBreak": 220,
@@ -465,7 +463,7 @@
 			}
 		}
 	],
-	"geometryStamp": 575,
+	"geometryStamp": 581,
 	"$4d": {
 		"version": "1",
 		"kind": "form"
@@ -476,5 +474,7 @@
 		"views": {
 			"View 1": {}
 		}
-	}
+	},
+	"width": 754,
+	"height": 399
 }

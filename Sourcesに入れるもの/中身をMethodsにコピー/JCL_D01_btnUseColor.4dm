@@ -1,8 +1,9 @@
 //%attributes = {}
-//JCL_01_btnUseColor
+//JCL_D01_btnUseColor
 //20210607 wat
 //別の色を使う
 //20220430 wat 色選びにこだわってしまうことがある。その時に効率がいいように５色から選ぶようにした。
+//20221011 hisa wat バージョン確認作業　GitHubにアップ
 
 C_TEXT:C284($btnNname; $numStr; $rectName)
 C_TEXT:C284($color_text)
